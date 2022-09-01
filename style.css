@@ -1,0 +1,8 @@
+body {
+    background-color: #aaa;
+}
+main {
+    max-width: 800px;
+    font: 18px monospace;
+    margin: auto;
+}
